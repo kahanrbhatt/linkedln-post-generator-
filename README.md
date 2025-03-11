@@ -6,3 +6,14 @@ Once the past posts are analyzed and categorized, the influencer can use the too
 
 The final step involves generating the post using the trained model while incorporating **personalized elements** to match the influencer’s style. The tool does not simply create generic content; instead, it mimics the influencer's way of structuring ideas, using specific phrases, and engaging their audience. By incorporating past successful posts as references, the generated content is more likely to resonate with the audience and maintain high engagement levels. This process **saves time, enhances content relevance, and ensures brand consistency**, allowing the influencer to focus more on strategic engagement rather than spending excessive time crafting new posts from scratch.
 
+
+![image](https://github.com/user-attachments/assets/edab434b-1668-4a94-b402-b1b904831dd0)
+
+
+
+
+![image](https://github.com/user-attachments/assets/7f205ec9-783e-412c-bc10-40701a65b74d)
+
+
+
+![image](https://github.com/user-attachments/assets/24f691d6-2db1-446b-a85e-025834802997)
